@@ -7,7 +7,8 @@ APPARATUS: - LVDT kit, Multimeter
 
 THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
-DIAGRAM:
+DIAGRAM:<img width="812" height="652" alt="image" src="https://github.com/user-attachments/assets/798b90f8-2d2e-4141-ba6b-0d3d2a9f8bee" />
+
 CIRCUIT DIAGRAM
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
@@ -17,7 +18,8 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 
-OBSERVATION TABLE
+OBSERVATION TABLE:<img width="616" height="247" alt="image" src="https://github.com/user-attachments/assets/89162df1-480a-448c-a6dd-78a852210eaa" />
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
